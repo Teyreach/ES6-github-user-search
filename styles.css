@@ -1,0 +1,33 @@
+
+body {
+	background: #2f3542;
+	color: #fff;
+	font-family: 'Lato', sans-serif;
+	margin: 0 auto;
+}
+
+label {
+	margin: 0 10px 0 10px;
+	font-size: 20px;
+}
+
+a {
+	display: block;
+	color: #CAD3C8;
+	text-decoration: none;
+	text-align: center;
+}
+
+form + div div {
+	display: inline-block;
+	margin: 40px 40px 0;
+	width: 100px;
+}
+
+input {
+	background: #CAD3C8;
+	border: none;
+	color: #fff;
+	padding: 7px;
+	margin-top: 20px;
+}
