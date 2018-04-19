@@ -1,2 +1,2 @@
-# zadanie15_9
-https://teyreach.github.io/zadanie15_9/
+# ES6-github-user-search
+https://teyreach.github.io/ES6-github-user-search/
